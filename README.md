@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://distririo.com.br"><img src="https://img.shields.io/badge/distririo.com.br-no_ar-E11D2E?style=for-the-badge&labelColor=18181B" alt="distririo.com.br no ar"></a>
+  <a href="https://www.linkedin.com/in/enzorezende07/"><img src="https://img.shields.io/badge/LinkedIn-enzorezende07-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=18181B" alt="LinkedIn de Enzo Rezende"></a>
 </p>
 
 <br>
