@@ -1,7 +1,7 @@
 <h1 align="center">Enzo Rezende</h1>
 
 <p align="center">
-  Desenvolvedor web no Rio de Janeiro.<br>
+  Desenvolvedor web no Rio de Janeiro e estudante de Análise e Desenvolvimento de Sistemas na UVA.<br>
   Faço sites rápidos, acessíveis e fáceis de manter, em HTML, CSS e JavaScript puros.
 </p>
 
