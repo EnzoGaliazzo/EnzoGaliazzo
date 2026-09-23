@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://enzogaliazzo.github.io"><img src="https://img.shields.io/badge/site-enzogaliazzo.github.io-FFA21F?style=for-the-badge&labelColor=18181B" alt="Site de apresentação do Enzo"></a>
   <a href="https://distririo.com.br"><img src="https://img.shields.io/badge/distririo.com.br-no_ar-E11D2E?style=for-the-badge&labelColor=18181B" alt="distririo.com.br no ar"></a>
   <a href="https://www.linkedin.com/in/enzorezende07/"><img src="https://img.shields.io/badge/LinkedIn-enzorezende07-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=18181B" alt="LinkedIn de Enzo Rezende"></a>
   <a href="https://www.instagram.com/galiaco0/"><img src="https://img.shields.io/badge/Instagram-galiaco0-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=18181B" alt="Instagram de Enzo Rezende"></a>
